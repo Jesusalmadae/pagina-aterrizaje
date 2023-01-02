@@ -131,3 +131,44 @@ button {
     padding-top: 240px;
     font-size: 29px;
 }
+
+.container4 {
+    width: 100%;
+    height: 300px;
+    background-color: #f9faf8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuadroazul {
+    height: 45%;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    border-radius: 10px;
+    align-items: center;
+    padding: 0px 60px 0px 60px;
+
+}
+.ultimotext {
+    font-style: none;
+    color: #E5E7EB;
+}
+.botonazul {
+    border: solid 2px white;
+}
+
+footer {
+    width: 100%;
+    height: 90px;
+    background-color: #1f2937;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.footerclass {
+    font-size: 20px;
+}
